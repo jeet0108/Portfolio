@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio"
               description="Discover my journey and projects through a seamless and engaging user experience. Built with React, my portfolio showcases a dynamic interface and responsive design. Explore my skills, projects, and background, and get in touch to collaborate on exciting opportunities!"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/jeet0108/Portfolio/tree/master"
               // demoLink=""              
             />
           </Col>
